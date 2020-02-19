@@ -4,4 +4,5 @@ Author and presentation by: Dr Mahmoud El-Haj https://www.lancaster.ac.uk/staff/
 
 
 # Installation
+You need Jupyter to run the notebooks https://jupyter.org/.
 Check the 0_Visualisation_Setup.ipynb for the required python packages. (https://github.com/drelhaj/NLP_ML_Visualization_Tutorial/blob/master/0_Visualisation_Setup.ipynb)
