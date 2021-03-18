@@ -4,6 +4,9 @@ This is a step by step tutorial for text analyst who want an easy start to basic
 # Author and Presenter:
 Dr Mahmoud El-Haj https://www.lancaster.ac.uk/staff/elhaj
 
+# Presentation Slides:
+If you have attended the 'Visualise My Corpus' talk before here are the introductory slides: https://www.lancaster.ac.uk/staff/elhaj/docs/visualise_my%20_corpus.pdf
+
 # Tutorials
 The repository is made up of 6 tutorials as follow:
   * 1- Visualaization using SpaCy: a basic introduction to using SpaCy and to visualise part of speech tagging and named entity recognition.
