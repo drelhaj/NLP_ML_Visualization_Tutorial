@@ -97,7 +97,7 @@ py==1.10.0
 py-params==0.8.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-Pygments==2.5.2
+Pygments==2.7.4
 pyLDAvis==3.2.2
 pyparsing==2.4.7
 PyPDF2==1.26.0
