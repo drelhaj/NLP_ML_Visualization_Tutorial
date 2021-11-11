@@ -7,6 +7,9 @@ Dr Mahmoud El-Haj https://www.lancaster.ac.uk/staff/elhaj
 # Presentation Slides:
 If you have attended the 'Visualise My Corpus' talk before here are the introductory slides: https://www.lancaster.ac.uk/staff/elhaj/docs/visualise_my%20_corpus.pdf
 
+# Presentation YouTube Video:
+A step by step presentation of the tutorials: https://youtu.be/g6tUQxIVesA
+
 # Tutorials
 The repository is made up of 6 tutorials as follow:
   * 1- Visualaization using SpaCy: a basic introduction to using SpaCy and to visualise part of speech tagging and named entity recognition.
