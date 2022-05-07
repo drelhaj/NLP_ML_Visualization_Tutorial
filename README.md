@@ -1,6 +1,9 @@
 # NLP_ML_Visualization_Tutorial
 This is a step by step tutorial for text analyst who want an easy start to basic and and common techniques in NLP, Text Analysis, Machine Learning, Topic Modelling and Corpus Linguistics. The tutorial is pat of the "Visualise My Corpus" UCREL and DSG Seminar and Tutorial as well as the "Data Visualisation Workshop for Critical Computational Discourse" at the Data Science Institute at Lancaster University, UK. 
 
+# Arabic Version of this Tutorial:
+You can find the Arabic-customised version of this tutorial here: https://github.com/drelhaj/NLP_ML_Visualization_Tutorial/tree/master/Arabic_Tutorial
+
 # Author and Presenter:
 Dr Mahmoud El-Haj https://www.lancaster.ac.uk/staff/elhaj
 
