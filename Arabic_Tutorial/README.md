@@ -10,7 +10,7 @@ Dr Mo El-Haj https://www.lancaster.ac.uk/staff/elhaj
 The repository is made up of 5 tutorials as follow:
   * 0- Visualaization using SpaCy: a basic introduction to using SpaCy and to visualise part of speech tagging and named entity recognition.
   * 1- Download Tweets using Tweepy: a basic introduction to downloading Tweets using Twitter API and Tweepy.
-  * 2- Word Clouds: an introduction to creating word clouds using basic word frequency and more towards focusing on other part of speech tags.
+  * 2- Word Clouds: an introduction to creating word clouds using basic word frequency using masks.
   * 3- Word Embeddings: a gentle start to word embeddings using gensim and visualising the vectors using TSNE and PCA.
   * 4- Topic Modelling: Using LDA and LDAvis to display an interactive topic model.
 
