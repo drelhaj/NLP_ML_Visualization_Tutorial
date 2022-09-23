@@ -92,7 +92,7 @@ pluggy==0.13.1
 preshed==3.0.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-protobuf==3.10.0
+protobuf==3.18.3
 py==1.10.0
 py-params==0.8.2
 pyasn1==0.4.8
